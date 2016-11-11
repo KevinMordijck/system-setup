@@ -26,8 +26,5 @@ genpasswd() {
 
 alias q='exit'
 alias pin='ping github.com'
-alias work='cd /home/kevin/Workspace'
-alias vpn='sudo openvpn /etc/openvpn/open-future/open-future.conf & disown'
-alias killvpn='sudo pkill openvpn'
-alias isvpn='pgrep openvpn'
+alias work='cd ~/Workspace'
 
